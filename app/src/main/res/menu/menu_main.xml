@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nikhil.assign_table.MainActivity">
+
+    <item
+        android:id="@+id/create"
+        android:title="Create Table"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/insert"
+        android:title="Insert Record"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/update"
+        android:title="Update Table"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/show"
+        android:title="Show Table"
+        app:showAsAction="never" />
+
+
+</menu>
